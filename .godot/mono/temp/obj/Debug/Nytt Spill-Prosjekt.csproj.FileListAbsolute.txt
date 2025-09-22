@@ -1,0 +1,18 @@
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/Nytt Spill-Prosjekt.deps.json
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/Nytt Spill-Prosjekt.runtimeconfig.json
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/Nytt Spill-Prosjekt.dll
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/Nytt Spill-Prosjekt.pdb
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.csproj.AssemblyReference.cache
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.AssemblyInfoInputs.cache
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.AssemblyInfo.cs
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.csproj.CoreCompileInputs.cache
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.sourcelink.json
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spi.8B5639E6.Up2Date
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.dll
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/refint/Nytt Spill-Prosjekt.dll
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.pdb
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/Nytt Spill-Prosjekt.genruntimeconfig.cache
+/Users/16maremm/Documents/Programmering/Godot/nytt-spill-prosjekt/CustardChaos/.godot/mono/temp/obj/Debug/ref/Nytt Spill-Prosjekt.dll

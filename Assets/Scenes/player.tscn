@@ -11,6 +11,7 @@ height = 14.0
 script = ExtResource("1_7dd06")
 
 [node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(10, 10)
 
 [node name="AgentAnimator" type="Node2D" parent="."]
 
