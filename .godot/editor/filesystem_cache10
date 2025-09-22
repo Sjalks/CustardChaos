@@ -1,4 +1,13 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1758550371
+::res://::1758551136
 icon.svg::CompressedTexture2D::6460941052003847840::1758544677::1758550372::1::::<><><>0<>0<>78f559e5b4b51120a23bc09a9e5ce3d3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1758550148::0::1::::<><><>0<>0<><>::
+::res://Assets/::1758551172
+::res://Assets/Scenes/::1758551422
+::res://Assets/Scenes/Areas/::1758551519
+test_area.tscn::PackedScene::2435248059269687766::1758551519::0::1::::<><><>0<>0<><>::
+::res://Assets/Scripts/::1758551172
+::res://Assets/Sprites/::1758551672
+enemy_1.png::CompressedTexture2D::2295509608420752098::1758551640::1758551640::1::::<><><>0<>0<>1bd556872e25c5e6de28a2a0bff8bc7a<>res://.godot/imported/enemy_1.png-9300168548d6e7c6dd08bee358e19723.ctex::
+player.png::CompressedTexture2D::4040251950886883591::1758551661::1758551661::1::::<><><>0<>0<>365478ac726b8e864b669ffc974f5a04<>res://.godot/imported/player.png-7c09656d9ce490aabfa1a9222d99cb2e.ctex::
+tiles_1.png::CompressedTexture2D::3949981253271028615::1758551672::1758551672::1::::<><><>0<>0<>057b39d9d1723094544f5f2154d13cdc<>res://.godot/imported/tiles_1.png-caae9e096ed63b671bb0775098168e12.ctex::
